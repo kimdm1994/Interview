@@ -35,6 +35,7 @@ class Cheolsu extends Human {
 }
 
 interface Champion {
+	/* public static final 상수이름 = 상수값; */
 	public abstract void call(); // abstract 는 생략가능
 }
 
